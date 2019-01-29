@@ -1,0 +1,2 @@
+Compilation:
+javac -d bin ./src/*.java
